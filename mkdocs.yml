@@ -1,0 +1,27 @@
+site_name: IAP Group Wiki
+theme:
+  name: material
+
+nav:
+  - Home: home.md
+  - Getting Started: Getting_Started.md
+  - People:
+      - Overview: People.md
+      - Claudiu Genes: claudiu_genes.md
+      - Nico Baßler: nico_bassler.md
+  - Projects: Projects.md
+  - Publications: Publications.md
+  - Software: software.md
+  - Books: books.md
+
+markdown_extensions:
+  - pymdownx.arithmatex:
+      generic: true
+
+extra_javascript:
+  - javascripts/katex.js
+  - https://unpkg.com/katex@0/dist/katex.min.js
+  - https://unpkg.com/katex@0/dist/contrib/auto-render.min.js
+
+extra_css:
+  - https://unpkg.com/katex@0/dist/katex.min.css
