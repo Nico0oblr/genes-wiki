@@ -84,7 +84,7 @@ Other members:
   Go to [office.com](https://www.office.com) and log in with *(tu-id)@tu-darmstadt.de* and your IDM password.
 
 - **Mathematica (paid)**  
-  Permission required.
+  Go tp this link (https://user.wolfram.com/portal/requestAK/0e8fbb345789fc60c0eec11c5aef5c99c616f16b)(https://user.wolfram.com/portal/requestAK/0e8fbb345789fc60c0eec11c5aef5c99c616f16b) and register an account with your TU Mail address.
 
 - **Matlab ("free")**  
   Available under TU Darmstadt license.
