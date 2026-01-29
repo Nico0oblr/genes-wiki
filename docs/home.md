@@ -16,5 +16,5 @@ dateCreated: 2025-07-05T09:28:56.382Z
 - [Useful software](/genes-wiki/software)
 
 $$
-\mathcal H=\text{i}\omega_0 \hat b^\dagger \hat b+\omega_0\hat a^\dagger \hat a
+\mathcal H=\omega_0\hat a^\dagger \hat a
 $$
